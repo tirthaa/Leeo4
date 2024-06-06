@@ -1,60 +1,15 @@
 total 68
-drwx--x--- 9 u787416989 apache     4096 Jun  6 13:58 .
+drwx--x--- 9 u787416989 apache     4096 Jun  6 14:08 .
 drwxr-xr-x 3 root       root       4096 Sep 28  2023 ..
 -rw-r--r-- 1 u787416989 o200819720   40 Sep 28  2023 .api_token
 drwxrwx--x 5 u787416989 o200819720 4096 Sep 28  2023 .cagefs
 drwxr-xr-x 2 u787416989 o200819720 4096 May 11 08:14 .cl.selector
 drwxr-xr-x 4 u787416989 o200819720 4096 Jan 18 10:00 domains
 drwxr-xr-x 3 u787416989 o200819720 4096 Jun  6 11:44 .filebrowser
-drwxr-xr-x 8 u787416989 o200819720 4096 Jun  6 13:58 .git
--rw-r--r-- 1 u787416989 o200819720   69 Jun  6 13:58 .gitconfig
+drwxr-xr-x 8 u787416989 o200819720 4096 Jun  6 14:08 .git
+-rw-r--r-- 1 u787416989 o200819720   69 Jun  6 14:08 .gitconfig
 drwxr-xr-x 2 u787416989 o200819720 4096 Jun  6 13:50 .logs
 -rw-r--r-- 1 u787416989 o200819720  701 Sep 28  2023 .profile
 lrwxrwxrwx 1 u787416989 o200819720   31 Sep 28  2023 public_html -> domains/kaashid.com/public_html
 -rw-r--r-- 1 u787416989 o200819720  127 Jun  6 13:28 README.md
 drwxr-xr-x 2 u787416989 o200819720 4096 Jun  5 13:51 .ssh
-On branch master
-Your branch is ahead of 'origin/master' by 168 commits.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   .logs/cronjob_GckXXOA0ST
-
-no changes added to commit (use "git add" and/or "git commit -a")
-error: remote github already exists.
-remote: error: GH013: Repository rule violations found for refs/heads/master.        
-remote: 
-remote: - GITHUB PUSH PROTECTION        
-remote:   —————————————————————————————————————————        
-remote:     Resolve the following violations before pushing again        
-remote: 
-remote:     - Push cannot contain secrets        
-remote: 
-remote:             
-remote:      (?) Learn how to resolve a blocked push        
-remote:      https://docs.github.com/code-security/secret-scanning/pushing-a-branch-blocked-by-push-protection        
-remote:             
-remote:             
-remote:       —— GitHub Personal Access Token ——————————————————————        
-remote:        locations:        
-remote:          - commit: b6291816c12c15e84ef95ce7a9616ca987a556ca        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHub.php:19        
-remote:          - commit: c87b4181a4d0cbec934b1cebe92f4c1f7096bd38        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHub.php:23        
-remote:          - commit: c87b4181a4d0cbec934b1cebe92f4c1f7096bd38        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHub.php:27        
-remote:          - commit: ba5f12046af8df23b89a16809b11d6ead74ecbc1        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:23        
-remote:          - commit: ba5f12046af8df23b89a16809b11d6ead74ecbc1        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:27        
-remote:             
-remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
-remote:        https://github.com/tirthaa/darshh/security/secret-scanning/unblock-secret/2hVZ1bWjAVftTjH2jwS7qaF0L0h        
-remote:             
-remote: 
-remote: 
-To https://github.com/tirthaa/darshh.git
- ! [remote rejected] master -> master (push declined due to repository rule violations)
-error: failed to push some refs to 'https://github.com/tirthaa/darshh.git'
