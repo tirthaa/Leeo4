@@ -1,9 +1,5 @@
 <?php
 
-$output = `ls -la`;
-echo $output;
-sleep(9);
-
 $output = `git add --all`;
 echo $output;
 sleep(1);
