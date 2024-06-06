@@ -12,7 +12,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(3);
 
-$output = `git commit -m "First to Server Darsh"`;
+$output = `git commit -m "Second to Server Darshh"`;
 echo $output;
 sleep(4);
 
@@ -48,7 +48,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(12);
 
-$output = `git commit -m "First to Server Darsh"`;
+$output = `git commit -m "Third to Server Darshh"`;
 echo $output;
 sleep(13);
 
