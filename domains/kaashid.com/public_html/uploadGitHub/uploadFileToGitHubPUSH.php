@@ -26,6 +26,6 @@ sleep(6);
 
 $output = `git push -u origin master`;
 echo $output;
-sleep(7);
+sleep(8);
 
 ?>
