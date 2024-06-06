@@ -1,0 +1,9 @@
+On branch master
+Your branch is ahead of 'origin/master' by 253 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+error: remote github already exists.
+From https://github.com/tirthaa/darshhh
+ * branch            master     -> FETCH_HEAD
+Already up to date.
