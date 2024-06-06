@@ -24,12 +24,8 @@ $output = `git remote add github https://ghp_CWHvJ9mzeKlXEhDy2BooFn3e85mcC81QP9k
 echo $output;
 sleep(6);
 
-$output = `git config --global  pull.ff true`;
-echo $output;
-sleep(7);
-
 $output = `git push -u origin master`;
 echo $output;
-sleep(8);
+sleep(7);
 
 ?>
