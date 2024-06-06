@@ -1,5 +1,9 @@
 <?php
 
+$output = `ls -la`;
+echo $output;
+sleep(1);
+
 $output = `git add --all`;
 echo $output;
 sleep(1);
@@ -12,7 +16,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(3);
 
-$output = `git commit -m "Fourth from Server Darshh"`;
+$output = `git commit -m "Sixth from Server Darshh"`;
 echo $output;
 sleep(4);
 
