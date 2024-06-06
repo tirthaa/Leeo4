@@ -1,0 +1,37 @@
+[master 6d2654b] Seventh to Server Darshh
+ 2 files changed, 3 insertions(+), 40 deletions(-)
+error: remote github already exists.
+remote: error: GH013: Repository rule violations found for refs/heads/master.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/pushing-a-branch-blocked-by-push-protection        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 24fedf206f15bf28ed6dd1c4c7f990759c4ed324        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:19        
+remote:          - commit: 24fedf206f15bf28ed6dd1c4c7f990759c4ed324        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
+remote:          - commit: 81edc626d497e19325b0c62e746835bb5b427947        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
+remote:          - commit: 81edc626d497e19325b0c62e746835bb5b427947        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:27        
+remote:          - commit: 24fedf206f15bf28ed6dd1c4c7f990759c4ed324        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/tirthaa/darshh/security/secret-scanning/unblock-secret/2hVZ1bWjAVftTjH2jwS7qaF0L0h        
+remote:             
+remote: 
+remote: 
+To https://github.com/tirthaa/darshh.git
+ ! [remote rejected] master -> master (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/tirthaa/darshh.git'
