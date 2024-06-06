@@ -1,3 +1,5 @@
 [user]
 	email = tirtha@kaashid.com
 	name = tirthaa
+[pull]
+	ff = true
