@@ -20,11 +20,11 @@ $output = `git commit -m "8th to Server"`;
 echo $output;
 sleep(5);
 
-$output = `git remote set-url origin https://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@github.com/tirthaa/darsh.git`;
+$output = `git remote set-url origin https://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@github.com/tirthaa/darshh.git`;
 echo $output;
 sleep(6);
 
-$output = `git remote add github https://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@github.com/tirthaa/darsh.git`;
+$output = `git remote add github https://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@github.com/tirthaa/darshh.git`;
 echo $output;
 sleep(7);
 
@@ -32,7 +32,7 @@ $output = `git config --global  pull.ff true`;
 echo $output;
 sleep(8);
 
-$output = `git push -u origin master`;
+$output = `git pull origin master --allow-unrelated-histories`;
 echo $output;
 sleep(10);
 
