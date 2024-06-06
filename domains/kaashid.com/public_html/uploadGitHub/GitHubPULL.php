@@ -1,15 +1,5 @@
 <?php
 
-
-
-$output = `pwd`;
-echo $output;
-sleep(1);
-
-$output = `ls -la`;
-echo $output;
-sleep(1);
-
 $output = `git add --all`;
 echo $output;
 sleep(1);
