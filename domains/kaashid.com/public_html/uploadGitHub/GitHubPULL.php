@@ -1,5 +1,11 @@
 <?php
 
+
+
+$output = `pwd`;
+echo $output;
+sleep(1);
+
 $output = `ls -la`;
 echo $output;
 sleep(1);
@@ -20,11 +26,11 @@ $output = `git commit -m "Sixth from Server Darshh"`;
 echo $output;
 sleep(4);
 
-$output = `git remote set-url origin https://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@github.com/tirthaa/darshh.git`;
+$output = `git remote set-url origin https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(5);
 
-$output = `git remote add github https://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@github.com/tirthaa/darshh.git`;
+$output = `git remote add github https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(6);
 
