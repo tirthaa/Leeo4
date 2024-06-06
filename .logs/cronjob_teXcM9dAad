@@ -1,15 +1,17 @@
 /home/u787416989
-total 60
-drwx--x--- 9 u787416989 apache     4096 Jun  6 18:36 .
+total 76
+drwx--x--- 9 u787416989 apache     4096 Jun  6 18:38 .
 drwxr-xr-x 3 root       root       4096 Sep 28  2023 ..
 -rw-r--r-- 1 u787416989 o200819720   40 Sep 28  2023 .api_token
 drwxrwx--x 5 u787416989 o200819720 4096 Sep 28  2023 .cagefs
 drwxr-xr-x 2 u787416989 o200819720 4096 May 11 08:14 .cl.selector
 drwxr-xr-x 4 u787416989 o200819720 4096 Jun  6 18:36 domains
 drwxr-xr-x 3 u787416989 o200819720 4096 Jun  6 18:10 .filebrowser
-drwxr-xr-x 8 u787416989 o200819720 4096 Jun  6 18:02 .git
--rw-r--r-- 1 u787416989 o200819720   69 Jun  6 18:06 .gitconfig
+drwxr-xr-x 8 u787416989 o200819720 4096 Jun  6 18:38 .git
+-rw-r--r-- 1 u787416989 o200819720   69 Jun  6 18:38 .gitconfig
 drwxr-xr-x 2 u787416989 o200819720 4096 Jun  6 18:30 .logs
 -rw-r--r-- 1 u787416989 o200819720  701 Sep 28  2023 .profile
 lrwxrwxrwx 1 u787416989 o200819720   31 Sep 28  2023 public_html -> domains/kaashid.com/public_html
+-rw-r--r-- 1 u787416989 o200819720    9 Jun  6 18:38 README.md
+-rw-r--r-- 1 u787416989 o200819720   22 Jun  6 18:38 RINGGGGGGG
 drwxr-xr-x 2 u787416989 o200819720 4096 Jun  5 13:51 .ssh
