@@ -5,3 +5,11 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[master 1c82f4d] folders New folder to Server Darshh
+ 1 file changed, 7 insertions(+), 79 deletions(-)
+error: remote github already exists.
+error: Terminal is dumb, but EDITOR unset
+Please supply the message using either -m or -F option.
+To https://github.com/tirthaa/darshhh.git
+   b28ceb2..1c82f4d  master -> master
+fatal: could not read Password for 'https://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@github.com': No such device or address
