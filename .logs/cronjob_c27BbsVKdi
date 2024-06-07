@@ -1,0 +1,15 @@
+On branch master
+Your branch is ahead of 'origin/master' by 35 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .logs/cronjob_c27BbsVKdi
+
+no changes added to commit (use "git add" and/or "git commit -a")
+error: remote github already exists.
+error: Terminal is dumb, but EDITOR unset
+Please supply the message using either -m or -F option.
+fatal: could not read Password for 'https://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@github.com': No such device or address
+fatal: could not read Password for 'https://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@github.com': No such device or address
