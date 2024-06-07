@@ -1,7 +1,5 @@
 <?php
 
-$start="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";
-
 $output = `git add --all`;
 echo $output;
 sleep(1);
