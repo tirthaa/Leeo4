@@ -1,17 +1,12 @@
 On branch master
-Your branch is ahead of 'origin/master' by 7 commits.
+Your branch is ahead of 'origin/master' by 9 commits.
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
+  (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   .filebrowser/.quota.json
-	deleted:    .filebrowser/1d5026af8b23d8d60effdcc35f13d73469d0a322-s7YHBbf/data.db
+	modified:   .logs/cronjob_YPPuLg5H5q
 	modified:   .logs/cronjob_c27BbsVKdi
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.filebrowser/1d5026af8b23d8d60effdcc35f13d73469d0a322-SI8J4QA/
 
 no changes added to commit (use "git add" and/or "git commit -a")
 error: remote github already exists.
