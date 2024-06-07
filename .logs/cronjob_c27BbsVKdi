@@ -1,16 +1,7 @@
-On branch master
-Your branch is ahead of 'origin/master' by 20 commits.
-  (use "git push" to publish your local commits)
+fatal: Unable to create '/home/u787416989/.git/index.lock': File exists.
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   .logs/cronjob_YPPuLg5H5q
-	modified:   .logs/cronjob_c27BbsVKdi
-
-no changes added to commit (use "git add" and/or "git commit -a")
-error: remote github already exists.
-error: Terminal is dumb, but EDITOR unset
-Please supply the message using either -m or -F option.
-fatal: could not read Password for 'https://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@github.com': No such device or address
-fatal: could not read Password for 'https://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@github.com': No such device or address
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
