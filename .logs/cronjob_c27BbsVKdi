@@ -1,0 +1,87 @@
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .logs/cronjob_YPPuLg5H5q
+
+no changes added to commit (use "git add" and/or "git commit -a")
+error: remote github already exists.
+error: Terminal is dumb, but EDITOR unset
+Please supply the message using either -m or -F option.
+remote: error: GH013: Repository rule violations found for refs/heads/master.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/pushing-a-branch-blocked-by-push-protection        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/tirthaa/darshhh/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:19        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
+remote:          - commit: 3f1b9e8d0e13cd03b5e966b81076230d52266914        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: 3f1b9e8d0e13cd03b5e966b81076230d52266914        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:23        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/tirthaa/darshhh/security/secret-scanning/unblock-secret/2hY6Ofi4GIkkketPJaGFtGryLoC        
+remote:             
+remote: 
+remote: 
+To https://github.com/tirthaa/darshhh.git
+ ! [remote rejected] master -> master (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/tirthaa/darshhh.git'
+remote: error: GH013: Repository rule violations found for refs/heads/master.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/pushing-a-branch-blocked-by-push-protection        
+remote:             
+remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.        
+remote:      Visit the repository settings page, https://github.com/tirthaa/darshhh/settings/security_analysis        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:19        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
+remote:          - commit: 3f1b9e8d0e13cd03b5e966b81076230d52266914        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: c6fd474866bc12b06fa3ec92051f3ba0f5f2ee8b        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: 3f1b9e8d0e13cd03b5e966b81076230d52266914        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:23        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/tirthaa/darshhh/security/secret-scanning/unblock-secret/2hY6Ofi4GIkkketPJaGFtGryLoC        
+remote:             
+remote: 
+remote: 
+To https://github.com/tirthaa/darshhh.git
+ ! [remote rejected] master -> master (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/tirthaa/darshhh.git'
