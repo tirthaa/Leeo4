@@ -1,11 +1,14 @@
-fatal: pathspec 'public_html/TestEnv/Data.xls' is beyond a symbolic link
-error: pathspec 'public_html/TestEnv/Data.xls' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/Keyword.xls' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/rop.xls' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/Scenarios.xls' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/sop.xlsx' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/testNGG' did not match any file(s) known to git
-error: pathspec 'public_html/TestEnv/top.xlsx' did not match any file(s) known to git
+On branch master
+Your branch is ahead of 'origin/master' by 12 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .logs/cronjob_YPPuLg5H5q
+	modified:   .logs/cronjob_c27BbsVKdi
+
+no changes added to commit (use "git add" and/or "git commit -a")
 error: remote github already exists.
 error: Terminal is dumb, but EDITOR unset
 Please supply the message using either -m or -F option.
@@ -31,11 +34,11 @@ remote:          - commit: ccd9aa7e981600997c3fd4be5064004918f503ab
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:19        
 remote:          - commit: ccd9aa7e981600997c3fd4be5064004918f503ab        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
-remote:          - commit: 449fb99aad57cdeb82459626065d8fba4a36b524        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
-remote:          - commit: 401a0ac925993313496c5fb6d085e4a98b716679        
+remote:          - commit: b84ee4619a67539c8889c9a79cae43a936597b99        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
 remote:          - commit: 449fb99aad57cdeb82459626065d8fba4a36b524        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: b84ee4619a67539c8889c9a79cae43a936597b99        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:23        
 remote:             
 remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
@@ -68,11 +71,11 @@ remote:          - commit: ccd9aa7e981600997c3fd4be5064004918f503ab
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:19        
 remote:          - commit: ccd9aa7e981600997c3fd4be5064004918f503ab        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/GitHubPULL.php:23        
-remote:          - commit: 449fb99aad57cdeb82459626065d8fba4a36b524        
-remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
-remote:          - commit: 401a0ac925993313496c5fb6d085e4a98b716679        
+remote:          - commit: b84ee4619a67539c8889c9a79cae43a936597b99        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
 remote:          - commit: 449fb99aad57cdeb82459626065d8fba4a36b524        
+remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:19        
+remote:          - commit: b84ee4619a67539c8889c9a79cae43a936597b99        
 remote:            path: domains/kaashid.com/public_html/uploadGitHub/uploadFileToGitHubPUSH.php:23        
 remote:             
 remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
