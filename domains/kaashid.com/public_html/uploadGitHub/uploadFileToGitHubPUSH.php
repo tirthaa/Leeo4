@@ -12,7 +12,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(3);
 
-$output = `git commit -m "Automation 1 to Server Darshh" public_html/TestEnv/*`;`;
+$output = `git commit -m "Auto 1 to Server Darshh" public_html/TestEnv/*`;
 echo $output;
 sleep(4);
 
