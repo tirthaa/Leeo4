@@ -38,5 +38,4 @@ $output = `git push -u origin master`;
 echo $output;
 sleep(8);
 
-
 ?>
