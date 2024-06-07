@@ -1,8 +1,0 @@
-fatal: pathspec 'public_html/Yevati/' is beyond a symbolic link
-error: pathspec 'public_html/Yevati/' did not match any file(s) known to git
-error: remote github already exists.
-error: Terminal is dumb, but EDITOR unset
-Please supply the message using either -m or -F option.
-Everything up-to-date
-Everything up-to-date
-branch 'master' set up to track 'origin/master'.
