@@ -12,7 +12,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(3);
 
-$output = `git commit -m "Yevati New folder to Server Darshh"`;
+$output = `git commit -m "folders New folder to Server Darshh"`;
 echo $output;
 sleep(4);
 
