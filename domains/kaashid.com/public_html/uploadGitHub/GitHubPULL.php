@@ -1,6 +1,6 @@
 <?php
 
-$output = `git add --all`;
+$output = `git add public_html/uploads/*.csv`;
 echo $output;
 sleep(1);
 
