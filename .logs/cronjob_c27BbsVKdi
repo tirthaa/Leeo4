@@ -1,0 +1,7 @@
+[master f1ce042] folders New folder to Server Darshh
+ 2 files changed, 9 insertions(+), 15 deletions(-)
+error: remote github already exists.
+error: Terminal is dumb, but EDITOR unset
+Please supply the message using either -m or -F option.
+fatal: could not read Password for 'https://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@github.com': No such device or address
+fatal: could not read Password for 'https://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@github.com': No such device or address
