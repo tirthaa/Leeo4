@@ -16,11 +16,11 @@ $output = `git commit -m "Sixth from Server Darshh"`;
 echo $output;
 sleep(4);
 
-$output = `git remote set-url origin https://github.com/tirthaa/darshhh.git`;
+$output = `git remote set-url origin https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(5);
 
-$output = `git remote add github https://github.com/tirthaa/darshhh.git`;
+$output = `git remote add github https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(6);
 
