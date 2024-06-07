@@ -1,6 +1,6 @@
 <?php
 
-$output = `git add public_html/kaashid/*`;
+$output = `git add public_html/TestEnv/*`;
 echo $output;
 sleep(1);
 
@@ -12,7 +12,7 @@ $output = `git config --global user.name "tirthaa"`;
 echo $output;
 sleep(3);
 
-$output = `git commit -m "folders New folder to Server Darshh"`;
+$output = `git commit -m "Automation 1 to Server Darshh" public_html/TestEnv/*`;`;
 echo $output;
 sleep(4);
 

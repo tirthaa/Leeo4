@@ -1,8 +1,0 @@
-[master 6ac0d70] folders New folder to Server Darshh
- 3 files changed, 7 insertions(+), 84 deletions(-)
-error: remote github already exists.
-error: Terminal is dumb, but EDITOR unset
-Please supply the message using either -m or -F option.
-To https://github.com/tirthaa/darshhh.git
-   1c82f4d..6ac0d70  master -> master
-fatal: could not read Password for 'https://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@github.com': No such device or address
