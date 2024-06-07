@@ -16,11 +16,11 @@ $output = `git commit -m "folders New folder to Server Darshh"`;
 echo $output;
 sleep(4);
 
-$output = `git remote set-url origin https://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@github.com/tirthaa/darshhh.git`;
+$output = `git remote set-url origin https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(5);
 
-$output = `git remote add github https://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@github.com/tirthaa/darshhh.git`;
+$output = `git remote add github https://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@github.com/tirthaa/darshhh.git`;
 echo $output;
 sleep(6);
 
