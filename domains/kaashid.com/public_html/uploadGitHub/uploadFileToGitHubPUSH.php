@@ -30,8 +30,13 @@ $output = `git commit --amend`;
 echo $output;
 sleep(7);
 
-$output = `git push -u origin master -o secret_detection.skip_all`;
+$output = `git push -o secret_detection.skip_all`;
 echo $output;
 sleep(8);
+
+$output = `git push -u origin master`;
+echo $output;
+sleep(8);
+
 
 ?>
