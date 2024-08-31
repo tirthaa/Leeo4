@@ -8,7 +8,7 @@ pipeline{
 			}
 		stage("Run Test"){
 			steps{				
-				sh "mvn clean test  -P parallel -DsuiteXmlFile=/data/JENKINS/Jenkins_slaves/workspace/Automation_Folder/testng.xml"
+				sh "mvn clean test  -P parallel -DsuiteXmlFile=/data/JENKINS/Jenkins_slaves/workspace/LeeoA/testng.xml"
 				}
 			}
 		}
