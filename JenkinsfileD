@@ -3,7 +3,7 @@ pipeline{
 	stages{
 		stage("Start Grid"){
 			steps{
-				sh "docker-compose up -d "
+				sh "docker-compose up -d --remove-orphans"
 				}
 			}
 		stage("Run Test"){
